@@ -1,0 +1,13 @@
+[
+  {
+    "id": "1",
+    "titulo": "Laptop",
+    "descripcion": "Laptop de alta gama",
+    "codigo": "LAP123",
+    "precio": 1200,
+    "estado": true,
+    "inventario": 10,
+    "categoria": "Electrónica",
+    "imagenes": []
+  }
+]
